@@ -3,7 +3,7 @@
     "containerDefinitions": [
         {
             "name": "app",
-            "image": "391844802540.dkr.ecr.us-east-1.amazonaws.com/app_repo",
+            "image": "391844802540.dkr.ecr.us-east-1.amazonaws.com/app_repo:2954affe3612b59ee4c909168d809dfa26d925f0",
             "cpu": 256,
             "memory": 512,
             "portMappings": [
@@ -52,7 +52,7 @@
     ],
     "cpu": "256",
     "memory": "512",
-    "registeredAt": "2023-03-25T06:55:54.361Z",
+    "registeredAt": "2023-03-25T08:13:31.322Z",
     "registeredBy": "arn:aws:iam::391844802540:user/Abhisankha",
     "tags": []
 }
